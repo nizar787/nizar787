@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **cool projects**
 
-- 🌱 I’m currently learning **mern stack**
+- 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nizar787](https://github.com/nizar787)
 
