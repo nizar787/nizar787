@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm nizar harb</h1>
 <h3 align="center">A passionate mern developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizar787&label=Profile%20views&color=0e75b6&style=flat" alt="nizar787" /> </p>
 
@@ -9,7 +8,6 @@
 
 - 🔭 I’m currently working on **cool projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nizar787](https://github.com/nizar787)
 
 - 📫 How to reach me **nizarharb7@gmail.com**
 
