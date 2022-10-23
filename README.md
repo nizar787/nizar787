@@ -25,4 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nizar787&show_icons=true&locale=en" alt="nizar787" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nizar787&" alt="nizar787" /></p>,
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nizar787)](https://github.com/nizar787/github-readme-stats)
+
