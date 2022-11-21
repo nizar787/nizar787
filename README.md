@@ -26,6 +26,20 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nizar787&theme=highcontrast" alt="nizar787" /></p>
 
+{
+  "functions": {
+    "api/*.js": {
+      "memory": 128,
+      "maxDuration": 30
+    }
+  },
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/anuraghazra/github-readme-stats"
+    }
+  ]
+}
 
 
 
