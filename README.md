@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **cool projects**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m a full stack web developer (MERN)
 
 - 👨‍💻 All of my projects are available at [https://github.com/nizar787](https://github.com/nizar787)
 
