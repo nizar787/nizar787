@@ -8,7 +8,7 @@
 
 - 🌱 I’m a full stack web developer (MERN)
 
-- 👨‍💻 All of my projects are available at [https://github.com/nizar787](https://github.com/nizar787)
+- 👨‍💻 All of my projects are available at (https://portfolio-nizar-harb.vercel.app/))
 
 - 📫 How to reach me **nizarharb7@gmail.com**
 
