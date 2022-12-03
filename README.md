@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizar787&label=Profile%20views&color=0e75b6&style=flat" alt="nizar787" /> </p>
 
-- 🔭 I’m currently working on **cool projects**
-
 - 🌱 I’m a full stack web developer (MERN)
+
+- 🔭 I’m currently working on **cool projects**
 
 - 👨‍💻 All of my projects are available at https://github.com/nizar787
 - <a href="https://portfolio-nizar-harb.vercel.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/99293/portfolio.svg" alt="/nizar-harb-415a0376/" height="20" width="20" /> Portfolio </a>
