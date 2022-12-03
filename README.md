@@ -8,8 +8,8 @@
 
 - 🌱 I’m a full stack web developer (MERN)
 
-- 👨‍💻 All of my projects are available at (https://portfolio-nizar-harb.vercel.app/)
-- <a href="https://portfolio-nizar-harb.vercel.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/99293/portfolio.svg" alt="/nizar-harb-415a0376/" height="20" width="20" />Portfolio</a>
+- 👨‍💻 All of my projects are available at https://github.com/nizar787
+- <a href="https://portfolio-nizar-harb.vercel.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/99293/portfolio.svg" alt="/nizar-harb-415a0376/" height="20" width="20" /> Portfolio </a>
 
 - 📫 How to reach me **nizarharb7@gmail.com**
 
