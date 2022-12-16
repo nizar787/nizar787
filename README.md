@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizar787&label=Profile%20views&color=0e75b6&style=flat" alt="nizar787" /> </p>
 
-- 🌱 I’m a full stack web developer (MERN)
+- 🌱 I’m a full stack developer (MERN)
 
 - 🔭 I’m currently working on **cool projects**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//nizar-harb-415a0376/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/nizar-harb-415a0376/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//nizar-harb-415a0https://github.com/nizar787376/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/nizar-harb-415a0376/" height="30" width="40" /></a>
   
 </p>
 
