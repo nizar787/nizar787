@@ -24,9 +24,12 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></p>
 </p>
 
-<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nizar787&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="nizar787" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nizar787&theme=highcontrast&show_icons=true&locale=en" alt="nizar787" /></p>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nizar787show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nizar787&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nizar787&theme=highcontrast" alt="nizar787" /></p>
 
