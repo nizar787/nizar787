@@ -29,7 +29,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nizar787&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nizar787&theme=highcontrast" alt="nizar787" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nizar787&theme=algolia" alt="nizar787" /></p>
 
 
 
