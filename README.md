@@ -36,7 +36,7 @@
 <p align="center">
 <!-- <a href="https://github.com/AVS1508"> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nizar787&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nizar787&layout=compact&langs_count=11&theme=algolia&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nizar787&layout=compact&langs_count=12&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nizar787&theme=algolia&include_all_commits=true&count_private=true" alt="nizar787" /></p>
