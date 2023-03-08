@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nizar-harb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/nizar-harb-415a0376/" height="30" width="40" /></a>
   <a href="https://codepen.io/nizar787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nizar787" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17510787/nizar-harb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17510787/nizar-harb" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17510787/nizar-harb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17510787/nizar-harb" height="30" width="40" /></a>
 <a href="https://codesandbox.com/nizar787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nizar787" height="30" width="40" /></a>
   
 </p>
