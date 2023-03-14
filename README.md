@@ -101,6 +101,16 @@
     />
   </a>
   &emsp;
+  
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.sanity.io/images/z260cwfs/production/21f899f2bbd7c8aee165c056e403e25ef2daf0db-256x256.svg"
+      alt="material ui"
+      width="40"
+      height="40"
+    />
+  </a>
+  &emsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
