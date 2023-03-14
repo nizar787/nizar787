@@ -24,7 +24,7 @@
 
 ## 🛠️ My Skills ### 
 &emsp;
-👉 Programming languages
+### 👉 Programming languages
 <p align="left">
   &emsp;
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
