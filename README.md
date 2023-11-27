@@ -61,7 +61,7 @@
 ### 👉 Frontend Development
 <p align="left">
   &emsp;
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ 
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
