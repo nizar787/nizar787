@@ -415,10 +415,6 @@
 </p>
 
 <p align="center">
-
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=nizar
     787&theme=onedark&no-frame=false&no-bg=false&margin-w=4"/>
-</a>
-![](https://github-profile-trophy.vercel.app/?username=nizar
-    787&theme=onedark&no-frame=false&no-bg=false&margin-w=4) 
 </p>
