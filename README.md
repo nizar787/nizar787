@@ -444,7 +444,7 @@
 <p align="center">
       <a href=""
         ><img
-          src="https://github-profile-trophy.vercel.app/?username=nizar787&margin-w=5"
+          src="https://github-profile-trophy.vercel.app/?username=nizar787&theme=algolia&margin-w=5"
           alt="nizar"
       /></a>
     </p>
