@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizar787&label=Profile%20views&color=0e75b6&style=flat" alt="nizar787" /> </p>
 
-- 🔭 I’m currently learning devops
 
 
 <h3 align="left">Connect with me:</h3>
