@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm nizar harb</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizar787&label=Profile%20views&color=0e75b6&style=flat" alt="nizar787" /> </p>
 
-- 🌱 I’m a full stack developer
-
 - 🔭 I’m currently learning devops
 
-- 👨‍💻 All of my projects are available at https://github.com/nizar787
-- <a href="https://portfolio-nizar-harb.vercel.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/99293/portfolio.svg" alt="/nizar-harb-415a0376/" height="20" width="20" /> Portfolio </a>
-
-- 📫 How to reach me **nizar_harb@hotmail.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
