@@ -393,13 +393,7 @@
       alt="jira"
       src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white"
   /></a>
-  &emsp;
-  <a href="#"
-        ><img
-          alt="gitlab"
-          src="https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white"/>
-   </a>
-   &emsp;
+
   
 </p>
 
