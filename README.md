@@ -367,6 +367,15 @@
       height="40"
     />
   </a>
+   &emsp;
+  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg"
+      alt="argo"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 ### 👉 Software & Tools
