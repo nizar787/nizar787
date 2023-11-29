@@ -359,7 +359,7 @@
     />
   </a>
    &emsp;
-  <a href="https://gitlab.com" target="_blank" rel="noreferrer">
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"
       alt="gitlab"
