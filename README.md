@@ -340,6 +340,24 @@
       height="40"
     />
   </a>
+   &emsp;
+  <a href="https://ansible.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"
+      alt="ansible"
+      width="40"
+      height="40"
+    />
+  </a>
+   &emsp;
+  <a href="https://puppet.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg"
+      alt="puppet"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 ### 👉 Software & Tools
