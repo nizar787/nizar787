@@ -412,9 +412,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nizar787&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nizar787&layout=compact&langs_count=10&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-</p>
-
 <p align="center">
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=nizar
     787&theme=onedark&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
+</p>
+
+
