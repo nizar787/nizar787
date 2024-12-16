@@ -82,11 +82,6 @@
 
 ### 👉 Backend Development
 
-&emsp;
-<a href="https://codeigniter.com/" target="_blank">
-<img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-%23D35400.svg?logo=codeigniter&logoColor=white">
-</a>
-
 <p align="left">
   &emsp;
   <a href="https://nodejs.org" target="_blank">
@@ -120,6 +115,11 @@
   <a href="https://laravel.com/" target="_blank">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">
   </a>
+  &emsp;
+<a href="https://codeigniter.com/" target="_blank">
+<img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-%23D35400.svg?logo=codeigniter&logoColor=white">
+</a>
+
 </p>
 
 ### 👉 Mobile Frameworks
@@ -162,6 +162,14 @@
   &emsp;
   <a href="https://www.mongodb.com/" target="_blank">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+  </a>
+</p>
+### 👉 Machine Learning and Data Science
+
+<p align="left">
+  &emsp;
+  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank">
+    <img alt="Beautiful Soup" src="https://img.shields.io/badge/Beautiful_Soup-%2312100E.svg?logo=beautifulsoup&logoColor=white">
   </a>
 </p>
 
@@ -247,6 +255,8 @@
     <a href="https://pytorch.org/" target="_blank"><img alt="pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white"></a>
   &emsp;
     <a href="https://www.tensorflow.org/" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"><img alt="Beautiful Soup" src="https://img.shields.io/badge/Beautiful%20Soup-%23FF6F00.svg?logo=beautiful-soup&logoColor=white"></a>
 
 </p>
 
