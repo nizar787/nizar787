@@ -164,14 +164,6 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
   </a>
 </p>
-### 👉 Machine Learning and Data Science
-
-<p align="left">
-  &emsp;
-  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank">
-    <img alt="Beautiful Soup" src="https://img.shields.io/badge/Beautiful_Soup-%2312100E.svg?logo=beautifulsoup&logoColor=white">
-  </a>
-</p>
 
 ### 👉 DevOps
 
